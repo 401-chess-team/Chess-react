@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fee326856b339416078330a7e536da5",
+    "revision": "6d9958e06875880bdcf53c52e491e221",
     "url": "/Chess-react/index.html"
   },
   {
-    "revision": "3daa325757df4590ff7a",
-    "url": "/Chess-react/static/css/main.f4c5d710.chunk.css"
+    "revision": "bc70ec0876fe4bf0a2cd",
+    "url": "/Chess-react/static/css/main.bd18b23d.chunk.css"
   },
   {
     "revision": "4dcbe1f8c6f740b32daf",
     "url": "/Chess-react/static/js/2.8857fe86.chunk.js"
   },
   {
-    "revision": "3daa325757df4590ff7a",
-    "url": "/Chess-react/static/js/main.a73be6b0.chunk.js"
+    "revision": "bc70ec0876fe4bf0a2cd",
+    "url": "/Chess-react/static/js/main.3e94fc56.chunk.js"
   },
   {
     "revision": "6b115bc196315249a50b",
